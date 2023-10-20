@@ -1,17 +1,17 @@
 ![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
 <h1 align="center">Hi 👋, I'm Sajiyah</h1>
-<h3 align="center">DevOps Engineer | Member Of Kubernetes</h3>
+<h3 align="center">DevOps and Cloud Engineer | Member Of Kubernetes</h3>
 <br></br>
 
  ```yaml
 name: Sajiyah-Salat
 located_in: Gujarat,India
-current_job: Open Source Developer
+current_job: Active contributor in Kubebuilder
 education:
   [
   Bachelors of Computer Application: First Year Student
   ]
-company: GitHub
+company: Kubernetes
 
 fields_of_interests:
   [
@@ -19,7 +19,7 @@ fields_of_interests:
    "Kubernetes Expert"
     "Cloud",
     "DevOps",
-    "Java Devloper",
+    "Golang Devloper",
   ]
   
 currently_preparing_for: ["GSOC, Outreachy, MLH Fellowship, Kubecon"]
@@ -33,7 +33,7 @@ currently_preparing_for: ["GSOC, Outreachy, MLH Fellowship, Kubecon"]
 [![Hashnode Badge](https://img.shields.io/badge/-@sajiyahsalat-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://sajiyah-salat.hashnode.dev/)](https://sajiyah-salat.hashnode.dev/)
 <br></br> 
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
-[![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,java,go&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,java,go,ansible,prometheus,grafana&perline=6)](https://skillicons.dev)
  
  ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
