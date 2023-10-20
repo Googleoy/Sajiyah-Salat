@@ -22,7 +22,7 @@ fields_of_interests:
     "Golang Devloper",
   ]
   
-currently_preparing_for: ["GSOC, Outreachy, MLH Fellowship, Kubecon"]
+currently_preparing_for: ["Internship","Hackhathon","Job"]
 ```
 <br></br>
 >### CONNECT WITH ME: 
