@@ -9,7 +9,7 @@ located_in: Gujarat,India
 current_job: Active contributor in Kubebuilder
 education:
   [
-  Bachelors of Computer Application: First Year Student
+  Bachelors of Computer Application: Second Year Student
   ]
 company: Kubernetes
 
