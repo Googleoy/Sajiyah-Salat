@@ -22,7 +22,7 @@ fields_of_interests:
     "Golang Devloper",
   ]
   
-currently_preparing_for: ["Internship","Hackhathon","Job"]
+currently_hunting_for: ["DevOps Freelance work"]
 ```
 <br></br>
 >### CONNECT WITH ME: 
